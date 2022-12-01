@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Training_1_12_2022</string>
+    <string name="danh_m_c_1">Danh mục 1:</string>
+    <string name="item_1">item 1</string>
+    <string name="danh_m_c_2">danh mục 2</string>
+    <string name="item_2">item 2</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+    <string name="show_web_view">Show web view</string>
+</resources>
